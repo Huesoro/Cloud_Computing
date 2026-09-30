@@ -1,0 +1,9 @@
+{
+  "scoring_uri": "http://2c053796-2d25-4c16-9390-971a2b421fe4.germanywestcentral.azurecontainer.io/score",
+  "swagger_uri": "http://2c053796-2d25-4c16-9390-971a2b421fe4.germanywestcentral.azurecontainer.io/swagger.json",
+  "service_name": "bankrupcy-prediction-service",
+  "model_name": "bankrupcy_prediction_model",
+  "workspace": "bankrupcy_prediction",
+  "resource_group": "__hw2__",
+  "location": "germanywestcentral"
+}
