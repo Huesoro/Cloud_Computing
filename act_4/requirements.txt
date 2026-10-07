@@ -1,0 +1,17 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+# Web API & Validation
+fastapi
+uvicorn[standard]
+pydantic
+requests
+gunicorn
+
+# Machine Learning & Deep Learning
+torch
+transformers
+accelerate
+
+# Data Processing & Evaluation
+pandas
+scikit-learn
+kagglehub
