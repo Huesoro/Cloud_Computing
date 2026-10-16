@@ -1,0 +1,13 @@
+# Web API & Validation
+fastapi
+uvicorn[standard]
+pydantic
+requests
+gunicorn
+
+# ML
+xgboost==2.1.1
+
+# Data Processing & Evaluation
+pandas
+scikit-learn
